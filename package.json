@@ -7,6 +7,16 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@tiptap/extension-table": "^2.1.10",
+    "@tiptap/extension-table-cell": "^2.1.10",
+    "@tiptap/extension-table-header": "^2.1.10",
+    "@tiptap/extension-table-row": "^2.1.10",
+    "@tiptap/extension-underline": "^2.1.10",
+    "@tiptap/pm": "^2.1.8",
+    "@tiptap/react": "^2.1.10",
+    "@tiptap/starter-kit": "^2.1.10",
+    "@tiptap/vue-3": "^2.1.8",
+    "bootstrap-icons": "^1.11.0",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
